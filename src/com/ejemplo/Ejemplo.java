@@ -1,5 +1,5 @@
 package com.ejemplo;
 
-public class Sergio {
+public class Ejemplo {
 
 }
